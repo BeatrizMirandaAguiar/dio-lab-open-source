@@ -1,7 +1,6 @@
-<h1>
-    <a https://github.com/BeatrizMirandaAguiar">
-     <img align="center" alt="programming" width="36px" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"></a>
-    <span>Beatriz Miranda Aguiar</span>
+<img align="right" alt="Developer vector created by storyset - www.alura.com.br" height="380" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
+<h1 collor=9b2961>
+    Beatriz Miranda Aguiar
 </h1>
 
 ## About Me
