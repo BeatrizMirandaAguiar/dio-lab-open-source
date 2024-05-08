@@ -1,9 +1,8 @@
 <img align="right" alt="Developer vector created by storyset - www.alura.com.br" height="380" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
-<h1 collor=9b2961>
-    Beatriz Miranda Aguiar
+<h1>
+    <style color=9b2961>Beatriz Miranda Aguiar</style>
 </h1>
 
-## About Me
 I'm a developer passionate about backend and looking for an opportunity to start my career in technology. I am focused, communicative, hard-working and extremely dedicated.
 
 ## Contact Me
