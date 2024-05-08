@@ -1,5 +1,3 @@
-
-# Beatriz Miranda Aguiar
 <h1>
     <a https://github.com/BeatrizMirandaAguiar">
      <img align="center" alt="programming" width="36px" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"></a>
@@ -10,7 +8,6 @@
 I'm a developer passionate about backend and looking for an opportunity to start my career in technology. I am focused, communicative, hard-working and extremely dedicated.
 
 ## Contact Me
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=9b2961)](mailto:bmirandaaguiar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=9b2961)](https://github.com/BeatrizMirandaAguiar)
