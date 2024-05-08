@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.giphy.com" height="380" src="https://media.giphy.com/media/5AGjSNAAbQAkor4AJF/giphy.gif">
+<img align="right" alt="Developer vector created by storyset - www.giphy.com" height="280" src="https://media.giphy.com/media/5AGjSNAAbQAkor4AJF/giphy.gif">
 <h1> Beatriz Miranda Aguiar </h1>
 
 I'm a developer passionate about backend and looking for an opportunity to start my career in technology. I am focused, communicative, hard-working and extremely dedicated.
